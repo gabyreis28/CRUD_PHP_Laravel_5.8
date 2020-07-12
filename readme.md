@@ -1,6 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-### CRUD - PHP Laravel Versão 5.8 
+# CRUD - PHP Laravel Versão 5.8 
 
 Estudos sobre desenvolver crud com php utilizando framework laravel.
 
